@@ -54,4 +54,12 @@ The following files are available for the train and test data. Their description
 - subjectTrain.txt: 7352 rows of 1 variable (subject Identifier)
 
  
+##### Script Explained
+
+- Import test and train datsets and merge them appropriately
+- Extracts data which relates to Mean and Standard Deviation
+- Imporves the labels
+- Add Activity Names for Activity Numbers
+- Find Mean of each measurement of a variable for each activity and each subject
+- Finally write this dataset as Tidy.Mean.Data
 
