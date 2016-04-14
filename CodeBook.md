@@ -20,9 +20,7 @@ into two sets, where 70% of the volunteers was selected for generating the train
 #### Information Available ###
 
 
-The dataset includes the following files:
-=========================================
-
+####  The dataset includes the following files:
 - 'README.txt'
 
 - 'features_info.txt': Shows information about the variables used on the feature vector.
@@ -45,12 +43,14 @@ The following files are available for the train and test data. Their description
 
 #### DATA EXPLORATION ###
 
-Test Dataset
-xTest.txt: 2947 rows of 561 measurement variables. These are measurement variables listed in features.txt
-yTest.txt: 2947 rows of 1 variables. This is the activity Identifier
-subjectTest.txt: 2497 rows of 1 variable (subject Identifier)
+##### Test Dataset
+- xTest.txt: 2947 rows of 561 measurement variables. These are measurement variables listed in features.txt
+- yTest.txt: 2947 rows of 1 variables. This is the activity Identifier
+- subjectTest.txt: 2497 rows of 1 variable (subject Identifier)
 
-Training Dataset
-xTrain.txt: 7352 rows of 561 measurement variables. These are measurement variables listed in features.txt
-yTrain.txt: 7352 rows of 1 variables. This is the activity Identifier
-subjectTrain.txt: 7352 rows of 1 variable (subject Identifier)
+##### Training Dataset
+- xTrain.txt: 7352 rows of 561 measurement variables. These are measurement variables listed in features.txt
+- yTrain.txt: 7352 rows of 1 variables. This is the activity Identifier
+- subjectTrain.txt: 7352 rows of 1 variable (subject Identifier)
+- 
+
