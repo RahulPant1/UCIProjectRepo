@@ -15,3 +15,7 @@ Final Project Related to Coursera Data Science " Getting and Cleaning Data"
 - Add Activity Names for Activity Numbers
 - Find Mean of each measurement of a variable for each activity and each subject
 - Finally write this dataset as Tidy.Mean.Data
+
+#  Tidy Data and Code Book
+- Tidy data us the finally generated dataset
+- Codebook briefly summarizes the script for easier understanding
