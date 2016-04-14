@@ -63,3 +63,7 @@ The following files are available for the train and test data. Their description
 - Find Mean of each measurement of a variable for each activity and each subject
 - Finally write this dataset as Tidy.Mean.Data
 
+#### Merge Activities
+
+- subject_test, y_test, x_test were column bind using cbind function to create Test.Data data frame which added "Sub.No", "Act.No" to dataset making it 563 column data.frame with 2947 rows
+- subject_train, y_train, x_train were column bind using cbind function to create Train.Data data.frame which added "Sub.No", "Act.No" to dataset making it 563 column data.frame with 7352 rows
