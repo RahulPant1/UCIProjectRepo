@@ -74,5 +74,8 @@ The following files are available for the train and test data. Their description
 - grep functions are used to search for occurance of mean mean() and standard deviation std()
 - gsub function is used to remove instances of "-" and "()" from variables names in the extracted subset
 - Appropriately label the data set with descriptive activity names in place of Activity Numbers
-- 
-- 
+
+#### Mean Tidy Data
+- reshape2 package is leveraged for reshaping the dataset. 
+- "Mean Tidy Data" data frame has 180 observations/rows and 68 columns/variables
+
