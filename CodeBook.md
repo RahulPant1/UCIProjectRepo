@@ -68,3 +68,11 @@ The following files are available for the train and test data. Their description
 - subject_test, y_test, x_test were column bind using cbind function to create Test.Data data frame which added "Sub.No", "Act.No" to dataset making it 563 column data.frame with 2947 rows
 - subject_train, y_train, x_train were column bind using cbind function to create Train.Data data.frame which added "Sub.No", "Act.No" to dataset making it 563 column data.frame with 7352 rows
 - Test.Data and Train.Data data.frame were rowbound using rbind function to create final aggregated dataset/data.frame with 10299 rows and 563 columns
+
+#### Data Extaaction and Labeling
+- Extract a subset of data with only the measurements on the mean standard deviation for each measurement
+- grep functions are used to search for occurance of mean mean() and standard deviation std()
+- gsub function is used to remove instances of "-" and "()" from variables names in the extracted subset
+- Appropriately label the data set with descriptive activity names in place of Activity Numbers
+- 
+- 
