@@ -52,5 +52,6 @@ The following files are available for the train and test data. Their description
 - xTrain.txt: 7352 rows of 561 measurement variables. These are measurement variables listed in features.txt
 - yTrain.txt: 7352 rows of 1 variables. This is the activity Identifier
 - subjectTrain.txt: 7352 rows of 1 variable (subject Identifier)
-- 
+
+ 
 
